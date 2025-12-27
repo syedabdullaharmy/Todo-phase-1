@@ -15,11 +15,7 @@ A robust, spec-driven command-line task manager built with Python 3.13 and the A
 - Python 3.13+
 - `uv` package manager
 
-### Installation
-```bash
-git clone <repo-url>
-cd <repo-dir>
-uv sync
+
 ```
 
 ### Running the App
